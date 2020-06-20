@@ -1,4 +1,4 @@
-# Fall2019_ESIM_Assignment3
+# Fall2019_Enterprise_Systems_Info_Modeling_Assignment3
 Graduate Level Eneterprise Systems-Info Modeling Course SQL Assignment
 
 *Instructions*<br>
